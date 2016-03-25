@@ -1,8 +1,13 @@
 /.project
 *.*~
-
-/core/temporary/*.txt
+vendor/
+temporary/*.txt
 autoconf.php
+composer.lock
 .settings
 .idea/
 .DS_Store
+libraries/composer/
+libraries/bin/
+libraries/phpunit/
+libraries/symfony/
